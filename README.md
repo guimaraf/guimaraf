@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1>Are we going to have breakfast sometime?</h1>
 <br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
